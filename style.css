@@ -1,0 +1,18 @@
+#submit{
+    background-color: cornflowerblue;
+    color: black;
+    height: 100px;
+
+}
+
+input:focus{
+
+background-color: rgb(197, 197, 204);
+
+
+}
+
+#main{
+
+    background-color: white;
+}
